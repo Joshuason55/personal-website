@@ -2,6 +2,7 @@ import React from 'react'
 import './About.css'
 import Fade from 'react-reveal/Fade'
 import { Grid } from '@mui/material'
+import Collage from './images/IMG_0924.JPG'
 
 const About = () => {
     return (
@@ -26,7 +27,7 @@ const About = () => {
                 <Grid item xs={12} sm={12} md={12} lg={3} xl={3}>
                     <img
                         className='collage'
-                        src="/images/IMG_0924.JPG"
+                        src={Collage}
                         alt='collage'
                         
                     />

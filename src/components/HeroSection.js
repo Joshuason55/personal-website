@@ -1,12 +1,14 @@
 import React from 'react';
 import '../App.css';
 import './HeroSection.css';
+import BackgroundVideo from './videos/video-1.mp4';
+
 
 
 function HeroSection() {
   return (
     <div className='hero-container' id= 'hero'>
-      <video src='/videos/video-1.mp4' autoPlay loop muted />
+      <video src={BackgroundVideo} autoPlay loop muted />
       <div className='name'>JOSHUA SON</div>
       <p>SOFTWARE ENGINEER | BASED IN SEATTLE</p>
       <div className='website-logos'>
