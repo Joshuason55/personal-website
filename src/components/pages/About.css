@@ -1,0 +1,163 @@
+body {
+    background-color: #e0e0e0;
+    overflow-x: hidden;
+    width: auto;
+}
+
+.about-title {
+    display: flex;
+    padding-top: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.about h2 {
+    font-size: 5rem;
+    text-align: center;
+}
+
+.about p {
+    font-size: 1.3vw;
+    margin: 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+}
+
+.about img {
+    width: 35vw;
+    height: auto;
+    margin-top: 1rem; /* Adjust as needed */
+    padding-bottom: 20vh;
+    margin-left: 3rem;
+}
+.text{
+    display: block;
+    margin-top: 4vh;
+}
+.about-grid-container{
+    overflow-x: hidden;
+}
+
+
+/* xl */
+@media only screen and (min-width: 1501px) {
+    .about p {
+        font-size: 1.3vw;
+        padding-left: -4rem;
+        margin-top: -1rem;
+        margin: 1rem;
+
+    }
+
+    .about img {
+        width: 33vw;
+        margin-left: -14vw;
+        margin-top: 2vw;
+    }
+    .text{
+        display: block;
+        margin-left: 5vw;
+    }
+}
+
+/* lg */
+@media only screen and (min-width: 1400px) and (max-width: 1500px) {
+    .about p {
+        font-size: 1.5vw;
+        padding-left: -4rem;
+        margin-top: -1rem;
+        margin: 1rem;
+
+    }
+
+    .about img {
+        width: 40vw;
+        margin-left: -15vw;
+        margin-top: 3vw;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+    .about p {
+        font-size: 1.5vw;
+        margin-left: -2rem;
+        margin-top: -1rem;
+        margin: 1rem;
+
+    }
+
+    .about img {
+        width: 40vw;
+        margin-left: -15vw;
+        margin-top: 5vw;
+    }
+}
+
+/* md */
+@media (max-width: 1200px) {
+    .about p {
+        font-size: 1.8vw;
+        margin: 0.5rem;
+
+    }
+    .text{
+        display: block;
+        margin-top: 0.2vw;
+    }
+
+    .about img {
+        width: 42vw;
+        margin-top: 0px;
+        margin-left: 30vw;
+
+    }
+}
+
+/* sm */
+@media (max-width: 900px) {
+    .about p {
+        font-size: 1.8vw;
+        margin: 0.5rem;
+
+    }
+    .text{
+        display: block;
+        margin-top: 0.2vw;
+    }
+
+    .about img {
+        width: 42vw;
+        margin-top: -20px; /* Adjust as needed */
+        padding-bottom: 10vh;
+        margin-left: 28vw;
+
+    }
+}
+@media (max-width: 700px) {
+    .about p {
+        font-size: 2vw;
+        margin: 0.5rem;
+    }    
+    .about img {
+        margin-left: 28vw;
+        width: 45vw;
+    }
+    
+}
+
+/* xs */
+@media (max-width: 600px) {
+    .about p {
+        font-size: 2.6vw;
+        margin: 0.5rem;
+    }    
+    .about img {
+        width: 65vw;
+        margin-left: 19vw;
+    }
+    
+}

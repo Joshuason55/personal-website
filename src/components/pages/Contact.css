@@ -1,0 +1,105 @@
+.contact{
+    background-color: rgb(60, 60, 60);
+    height: 780px;
+}
+.contact-start{
+    padding-top: 50px;
+}
+
+
+.contact-start-title{
+    display: flex;
+    color: rgb(225, 225, 225);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 60px;
+}
+
+.contact-start-title-heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    color: rgb(225, 225, 225);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+    width: auto;
+    margin-top: 10px;
+}
+
+.fa-envelope{
+    color: white;
+    font-size: 90px;
+}
+.fa-envelope:hover {
+    font-size: 100px;
+    transition: all 0.2s ease-in-out;
+  }
+
+.email-icon{
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.email-message{
+    display: flex;
+    color: rgb(225, 225, 225);
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+    margin-top: 55px;
+}
+
+#second-github{
+    font-size: 90px;
+    color: rgb(225, 225, 225);
+    margin-left: 70px;
+}
+#second-linked{
+    font-size: 90px;
+    color: rgb(225, 225, 225);
+    margin-left: 70px;
+}
+#second-text{
+    margin-top: 40px;
+}
+#second-github:hover {
+    font-size: 100px;
+    transition: all 0.2s ease-in-out;
+}
+  
+#second-linked:hover {
+    font-size: 100px;
+    transition: all 0.2s ease-in-out;
+}
+
+.fa-instagram{
+    margin-left:70px;
+    font-size: 90px;
+    color: rgb(225, 225, 225);
+}
+.fa-instagram:hover{
+    font-size: 100px;
+    transition: all 0.2s ease-in-out;
+}
+
+.social-icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    padding-right: 70px;
+}
+
+.copyright-text {
+    display: flex;
+    justify-content: center;
+    font-size: 1.6vh;
+}
+
+.copyright-container {
+    margin-top: 200px;
+}

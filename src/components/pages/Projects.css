@@ -1,0 +1,107 @@
+
+.projects {
+    background-color: #e0e0e0;
+    margin: auto;
+    padding: rem 1rem 0 1rem;
+    width: 100%;
+    height: auto;
+    padding-bottom: -3vh;
+}
+
+.projects h2 {
+    padding-top: 5vh;
+    font-size: 5rem;
+    text-align: center;
+}
+
+.projects h5 {
+    font-weight: normal;
+    font-size: 22px;
+    padding-bottom: 4vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    
+}
+#title2
+{
+    color: white;
+    font-size: 30px;
+}
+
+/* xs */
+.grid-container{
+    margin-top: 2vh;
+    overflow-x: hidden;
+    padding-left: 10.5vw;
+    padding-bottom: 25vh;
+}
+
+/* sm */
+@media (max-width: 400px) { 
+    .grid-container{
+        padding-left: 3vw;
+        margin-top: 1vh;
+
+    }
+}
+@media (min-width: 600px) { 
+    .grid-container{
+        padding-left: 22.5vw;
+        margin-top: 1vh;
+
+    }
+}
+
+@media (min-width: 750px) { 
+    .grid-container{
+        padding-left: 27.5vw;
+        margin-top: 1vh;
+    }
+
+}
+
+/* md */
+@media (min-width: 900px) {
+    .grid-container{
+        padding-left: 130px;
+    }
+    .projects{
+        padding-bottom: 0vh;
+    }
+}
+
+/* lg */
+@media (min-width: 1200px) {
+    .grid-container{
+        margin-top: 5vh;
+        padding-left: 100px;
+    }
+}
+
+@media (min-width: 1300px) {
+    .grid-container{
+        padding-left: 150px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .grid-container{
+        padding-left: 180px;
+        height: 80vh;
+
+    }
+}
+/* xl */
+
+@media (min-width: 1536px) {
+    .grid-container{
+        padding-left: 6.5vw;
+    }
+    .projects{
+        padding-bottom: 5vh;
+        height: 95vh;
+    }
+
+}

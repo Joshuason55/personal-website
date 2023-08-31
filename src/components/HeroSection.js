@@ -1,0 +1,25 @@
+import React from 'react';
+import '../App.css';
+import './HeroSection.css';
+
+
+function HeroSection() {
+  return (
+    <div className='hero-container' id= 'hero'>
+      <video src='/videos/video-1.mp4' autoPlay loop muted />
+      <div className='name'>JOSHUA SON</div>
+      <p>SOFTWARE ENGINEER | BASED IN SEATTLE</p>
+      <div className='website-logos'>
+          <a href='https://www.linkedin.com/in/joshuason55/'>
+            <i className="fab fa-linkedin"></i>
+          </a>
+          <a href='https://github.com/Joshuason55'>
+            <i className="fab fa-github"></i>
+          </a>
+      </div>
+
+    </div>
+  );
+}
+
+export default HeroSection;

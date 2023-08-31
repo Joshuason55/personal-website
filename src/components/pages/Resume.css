@@ -1,0 +1,64 @@
+.resume {
+    background-color: #ebeeee;
+    margin: auto;
+    padding: rem 1rem 0 1rem;
+    width: 100%;
+    height: auto;
+    padding-bottom: 4vh;
+
+
+}
+
+.resume h2 {
+    padding-top: 5vh;
+    font-size: 5rem;
+    text-align: center;
+}
+
+.resume h5 {
+    font-weight: normal;
+    font-size: 22px;
+    padding-bottom: 2.5vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#second {
+    font-size: 22px;
+    font-weight: normal;
+    padding-top: 10vh;
+    padding-bottom: 2.5vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#title
+{
+    color: grey;
+    font-size: 30px;
+}
+
+.resume p {
+    font-weight: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+.vertical-timeline-element-date {
+    font-size: 18px !important;
+}
+
+#center{
+    text-align: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
