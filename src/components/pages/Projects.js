@@ -36,7 +36,7 @@ function Projects() {
             title="Personal Website"
             description="Frontend project where I developed my own cross-platform portfolio website."
             language='ReactJS, CSS, MaterialUI, Github Pages'
-            url='https://github.com/Joshuason55/'
+            url='https://github.com/Joshuason55/personal-website'
             githublogo='fab fa-github'
           />
         </Grid>
