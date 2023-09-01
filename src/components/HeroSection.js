@@ -8,7 +8,7 @@ import BackgroundVideo from './videos/WebsiteVideo.mp4';
 function HeroSection() {
   return (
     <div className='hero-container' id= 'hero'>
-      <video src={BackgroundVideo} autoPlay loop muted />
+      <video src={BackgroundVideo} autoPlay loop muted playsInline/>
       <div className='name'>JOSHUA SON</div>
       <p>SOFTWARE ENGINEER | BASED IN SEATTLE</p>
       <div className='website-logos'>
