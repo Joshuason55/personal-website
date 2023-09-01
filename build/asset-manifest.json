@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.0053a2ce.css",
-    "main.js": "/personal-website/static/js/main.ea71c0b1.js",
-    "static/media/video-1.mp4": "/personal-website/static/media/video-1.59e75226d30ad48f9ede.mp4",
+    "main.css": "/personal-website/static/css/main.179160ad.css",
+    "main.js": "/personal-website/static/js/main.5d75143b.js",
+    "static/media/WebsiteVideo.MP4": "/personal-website/static/media/WebsiteVideo.2ca938c7e13ab929d45d.MP4",
     "static/media/IMG_0924.JPG": "/personal-website/static/media/IMG_0924.19a2c3bee63aaa56d14b.JPG",
     "static/media/stretchcrystal.png": "/personal-website/static/media/stretchcrystal.273b633b6656e6cb8860.png",
     "static/media/pwebphoto.png": "/personal-website/static/media/pwebphoto.4b4001ec599d62322985.png",
     "static/media/Keep_It_Green_Horizontal_r.png": "/personal-website/static/media/Keep_It_Green_Horizontal_r.3b0edbe33cf0ad113335.png",
     "index.html": "/personal-website/index.html",
-    "main.0053a2ce.css.map": "/personal-website/static/css/main.0053a2ce.css.map",
-    "main.ea71c0b1.js.map": "/personal-website/static/js/main.ea71c0b1.js.map"
+    "main.179160ad.css.map": "/personal-website/static/css/main.179160ad.css.map",
+    "main.5d75143b.js.map": "/personal-website/static/js/main.5d75143b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0053a2ce.css",
-    "static/js/main.ea71c0b1.js"
+    "static/css/main.179160ad.css",
+    "static/js/main.5d75143b.js"
   ]
 }
