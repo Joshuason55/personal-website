@@ -13,7 +13,7 @@ body {
 
 
 .about h2 {
-    font-size: 5rem;
+    font-size: 4vw;
     text-align: center;
 }
 
@@ -134,7 +134,10 @@ body {
         margin-top: -20px; /* Adjust as needed */
         padding-bottom: 10vh;
         margin-left: 28vw;
+    }
 
+    .about h2 {
+        font-size: 7vw;
     }
 }
 @media (max-width: 700px) {
@@ -145,6 +148,9 @@ body {
     .about img {
         margin-left: 28vw;
         width: 45vw;
+    }
+    .about h2 {
+        font-size: 8vw;
     }
     
 }
@@ -158,6 +164,9 @@ body {
     .about img {
         width: 65vw;
         margin-left: 19vw;
+    }
+    .about h2 {
+        font-size: 8vw;
     }
     
 }
