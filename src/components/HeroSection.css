@@ -16,7 +16,7 @@ video {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.748); /* use this to shadow hero video to given preference*/
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.748);
   object-fit: contain;
   overflow-x: hidden;
 }

@@ -1,7 +1,7 @@
 import React from 'react';
 import '../App.css';
 import './HeroSection.css';
-import BackgroundVideo from './videos/WebsiteVideo.mp4';
+import BackgroundVideo from './videos/27short.mp4';
 
 
 
