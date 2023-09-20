@@ -26,8 +26,8 @@ function Resume() {
   ];
  
   const educationTimeline = [
-    { icon: schoolIcon, date: 'September 2020 - Present', title: 'Bachelor of Science in Computer Science', school: 'University of California, Santa Barbara | Goleta, CA ', desc: "3.75 GPA, Dean's List, Zeta Beta Tau Fraternity, SB Hillel Volunteer" },
-    { icon: schoolIcon, date: 'September 2016 - June 2020', title: 'High School Degree',school: 'Eastlake High School | Sammamish, WA ', desc: '3.95 GPA, National Honor Society, Varsity Athlete, Scholor Athelete Award' },
+    { icon: schoolIcon, date: 'September 2020 - Present', title: 'Bachelor of Science in Computer Science', school: 'University of California, Santa Barbara | Goleta, CA ', desc: "3.75 GPA, 3x Dean's List, Zeta Beta Tau Fraternity" },
+    { icon: schoolIcon, date: 'September 2016 - June 2020', title: 'High School Degree',school: 'Eastlake High School | Sammamish, WA ', desc: '3.95 GPA, National Honor Society, Varsity Athlete, Scholar Athlete Award' },
   ];
   return (
     <div className='resume'>
