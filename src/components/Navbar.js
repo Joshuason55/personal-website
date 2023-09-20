@@ -33,7 +33,7 @@ function Navbar() {
           <div className='menu-icon' onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
           </div>
-          <ul className={click ? 'nav-menu active' : 'nav-menu'}>
+          <ul className={click ? 'active nav-menu' : 'nav-menu'}>
             <li className='nav-item'>
               <Link to="about" className='nav-links' spy={true} smooth={true} offset={-80} duration={650} onClick={closeMobileMenu}>
                 About
