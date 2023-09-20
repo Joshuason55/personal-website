@@ -32,11 +32,6 @@ function Contact() {
               <i id='insta' className="fab fa-instagram"></i>
             </a>
         </div>
-        <div className='copyright-container'>
-          <div>
-            <p className='copyright-text'>Edited by Joshua Son on 8/30/23 · © Copyright 2023 Joshua Son </p>
-          </div>
-        </div>
       </section>
       </Fade>
     </div>

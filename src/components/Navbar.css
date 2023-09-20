@@ -120,7 +120,7 @@
     opacity: 1;
     transition: all 0.5s ease-in;
     z-index: 1;
-    height:39.5vh;
+    height:36.25vh;
   }
 
   .nav-links {
@@ -177,5 +177,11 @@
     background: #fff;
     color: #242424;
     transition: 250ms;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .nav-menu.active {
+    height:39vh;
   }
 }
