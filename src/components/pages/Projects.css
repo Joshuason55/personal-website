@@ -105,3 +105,9 @@
     }
 
 }
+
+@media screen and (max-width: 390px) {
+    .projects h2 {
+        font-size: 3.5rem;
+    }
+}

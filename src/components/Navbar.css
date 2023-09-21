@@ -13,7 +13,7 @@
   position: fixed;
   top: 0;
   padding: 1.5em;
-  z-index: 999;;
+  z-index: 999;
   
 }
 .navbar.active{
@@ -182,6 +182,6 @@
 
 @media screen and (max-width: 390px) {
   .nav-menu.active {
-    height:39vh;
+    height: 44.5vh;
   }
 }
