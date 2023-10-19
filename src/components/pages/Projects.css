@@ -100,10 +100,12 @@
 @media (min-width: 1536px) {
     .grid-container{
         padding-left: 6.5vw;
+        height: 100vh;
+
     }
     .projects{
         padding-bottom: 5vh;
-        height: 95vh;
+        height: 110vh;
     }
 
 }
