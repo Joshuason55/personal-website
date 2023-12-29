@@ -84,7 +84,7 @@ function Resume() {
           })}
         </VerticalTimeline>
         <div className='button-container'>
-          <a href='https://drive.google.com/file/d/1jgYz_oipHZRereDJZs8kh3acNhjYIbNk/view?usp=sharing'>
+          <a href='https://drive.google.com/file/d/12RsC7FoWF_ZlzduYtrbwhpJqzXMAILEN/view?usp=sharing'>
             <Button label={'Download CV'} onClick={() => console.log('hello')}>
             </Button>
           </a>
